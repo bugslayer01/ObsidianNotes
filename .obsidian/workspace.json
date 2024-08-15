@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd8642b2a03d58d7",
+        "id": "49e8de720797458e",
         "type": "tabs",
-        "dimension": 56.2273276904474,
         "children": [
           {
-            "id": "ef823871109c68af",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts-Wiley (2012).pdf",
-                "page": 27,
-                "left": -18,
-                "top": 464,
-                "zoom": 1.25
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8f9915963b3aa1db",
-        "type": "tabs",
-        "dimension": 43.772672309552604,
-        "children": [
-          {
-            "id": "52f4292c926e9cb2",
+            "id": "64326ce4d755b116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OperatingSystem/Chapter 1.md",
+                "file": "DSA/array/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
+    "width": 333.5,
     "collapsed": true
   },
   "right": {
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts-Wiley (2012).pdf",
+                "file": "DSA/array/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts-Wiley (2012).pdf",
+                "file": "DSA/array/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts-Wiley (2012).pdf"
+                "file": "DSA/array/Untitled.md"
               }
             }
           }
@@ -172,10 +150,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ef823871109c68af",
+  "active": "a78db1b70bd202c3",
   "lastOpenFiles": [
+    "DSA/array/Untitled.md",
+    "DSA/DSA Resources.md",
+    "DSA/array",
+    "Attachments/DSA Assignments/LA1.pdf",
     "OperatingSystem/Chapter 1.md",
     "Attachments/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts-Wiley (2012).pdf",
+    "Attachments/DSA Assignments/LA2.pdf",
+    "[.md",
+    "Attachments/DSA Assignments",
+    "DSA",
     "Attachments",
     "Untitled.canvas",
     "attachments",
