@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64326ce4d755b116",
+            "id": "9b0c6c8b7061e92b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/array/Untitled.md",
+                "file": "BV/Reading atomic habits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd944505a53bf7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BV/Journel/20.08.2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "right": {
     "id": "b6b5b7cf100a8baf",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/array/Untitled.md",
+                "file": "BV/Reading atomic habits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/array/Untitled.md",
+                "file": "BV/Reading atomic habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/array/Untitled.md"
+                "file": "BV/Reading atomic habits.md"
               }
             }
           }
@@ -139,25 +151,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "a78db1b70bd202c3",
   "lastOpenFiles": [
+    "BV/Reading atomic habits.md",
+    "BV/Journel/20.08.2024.md",
+    "BV/Journel",
+    "OperatingSystem/Chapter 1.md",
+    "How to Ruin Your 20's.md",
+    "BV",
+    "Attachments/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts-Wiley (2012).pdf",
     "DSA/array/Untitled.md",
     "DSA/DSA Resources.md",
     "DSA/array",
     "Attachments/DSA Assignments/LA1.pdf",
-    "OperatingSystem/Chapter 1.md",
-    "Attachments/Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts-Wiley (2012).pdf",
     "Attachments/DSA Assignments/LA2.pdf",
     "[.md",
     "Attachments/DSA Assignments",
@@ -165,7 +182,6 @@
     "Attachments",
     "Untitled.canvas",
     "attachments",
-    "TheorySubCSE/Untitled.md",
-    "OperatingSystem"
+    "TheorySubCSE/Untitled.md"
   ]
 }
