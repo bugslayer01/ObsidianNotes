@@ -4,39 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4b9802e50e1525b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60ba79a51c21989f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/OOPs Material/EVALUATION CRITERIA OF UTA018 updated.pdf",
-                "page": 1,
-                "left": -17,
-                "top": 442,
-                "zoom": 0.9058153598064906
-              }
-            }
-          },
-          {
-            "id": "c1ca78e3902294dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOPS/Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "c891c3a6c7cd778a",
         "type": "tabs",
         "children": [
@@ -44,17 +11,28 @@
             "id": "de7e12f7589ca7f1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/OOPs Material/lab assignment 3.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 845,
-                "zoom": 1.1162064099979843
+                "file": "OperatingSystem/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed53db546f4e98e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OperatingSystem/lecture 6-11.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOPS/Syllabus.md",
+                "file": "OperatingSystem/lecture 6-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOPS/Syllabus.md",
+                "file": "OperatingSystem/lecture 6-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOPS/Syllabus.md"
+                "file": "OperatingSystem/lecture 6-11.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,31 +164,36 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c1ca78e3902294dd",
+  "active": "ed53db546f4e98e3",
   "lastOpenFiles": [
-    "Attachments/OOPs Material/EVALUATION CRITERIA OF UTA018 updated.pdf",
-    "Attachments/OOPs Material/lab assignment 3.pdf",
-    "OOPS/Syllabus.md",
-    "OOPS/1.) OOP_Introduction.md",
-    "Attachments/OOPs Material/lab assignment 2.pdf",
-    "Attachments/DSA  Material/UCS301 Data Structures MST Syllabus and Evaluation pattern.pdf",
-    "Attachments/OOPs Material/Special assignment on constructors & static.docx",
-    "Attachments/OOPs Material/Special Assignment for Revision.pdf",
-    "Attachments/OOPs Material/Practice Assignment.pdf",
-    "Attachments/OOPs Material/lab assignment 4.pdf",
-    "Attachments/OOPs Material/lab assignment 5.docx",
-    "Attachments/OOPs Material/lab assignment 1.pdf",
-    "DSA/DSA Resources.md",
-    "Attachments/OOPs Material/WhatsApp Image 2024-09-07 at 20.00.49_32a3e674.jpg",
-    "OOPS/2.)Classes and Objects.md",
+    "Attachments/OS Material",
+    "Attachments/OS Material/Pasted image 20240915225016.png",
     "OperatingSystem/Chapter 1.md",
-    "OOPS/Notes.md",
+    "OperatingSystem/lecture 6-11.md",
+    "OOPS/1.) OOP_Introduction.md",
+    "Attachments/OOPs Material/Practice Assignment.pdf",
+    "Attachments/OOPs Material/Practice Assignment 1.pdf",
+    "Attachments/OOPs Material/lab assignment 4.pdf",
+    "Attachments/OOPs Material/~$b assignment 5.docx",
+    "Untitled.md",
+    "References.md",
+    "OOPS/2.)Classes and Objects.md",
+    "OOPS/Syllabus.md",
     "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
+    "DSA/DSA Resources.md",
+    "DSA/array/Untitled.md",
+    "Attachments/OOPs Material/lab assignment 3.pdf",
+    "Attachments/OOPs Material/Special Assignment for Revision.pdf",
+    "Attachments/OOPs Material/~$ecial assignment on constructors & static.docx",
+    "Attachments/OOPs Material/lab assignment 2.pdf",
+    "Attachments/OOPs Material/EVALUATION CRITERIA OF UTA018 updated.pdf",
+    "Attachments/DSA  Material/UCS301 Data Structures MST Syllabus and Evaluation pattern.pdf",
+    "Attachments/OOPs Material/WhatsApp Image 2024-09-07 at 20.00.49_32a3e674.jpg",
+    "OOPS/Notes.md",
     "BV/Journel/08.2024/20.08.2024.md",
     "BV/Journel/Daily Traker.md",
     "BV/Exam Prep.md",
     "BV/Journel/09.2024/03.09.2024.md",
-    "References.md",
     "BV/Journel/09.2024/02.09.2024.md",
     "BV/Journel/08.2024/26.08.2024.md",
     "BV/Journel/08.2024/27.08.2024.md",
@@ -218,7 +202,6 @@
     "BV/Journel/09.2024/01.09.2024.md",
     "BV/Reading atomic habits.md",
     "How to Ruin Your 20's.md",
-    "DSA/array/Untitled.md",
     "[.md",
     "TheorySubCSE/Untitled.md"
   ]
