@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursion.md",
+                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursion.md",
+                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursion.md",
+                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursion.md"
+                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "ce7730dfcb1d985b",
   "lastOpenFiles": [
-    "DSA/1)Analyzing Algorithms.md",
     "Recursion.md",
+    "DSA/1)Analyzing Algorithms.md",
     "OOPS/Scope Resolution Operator.md",
     "OOPS/todo.md",
     "Untitled",
