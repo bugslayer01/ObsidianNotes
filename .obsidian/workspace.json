@@ -8,43 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be4446a6ae6cc7aa",
+            "id": "87aef10cbe5bf8fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPS/Scope Resolution Operator.md",
+                "file": "OOPS/3)StaticVsDynamic Initiation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "3)StaticVsDynamic Initiation"
             }
           },
           {
-            "id": "90696b11153077ae",
+            "id": "9c69000b0d6e915c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "OOPS/todo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce7730dfcb1d985b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
-                "mode": "source",
-                "source": false
-              }
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -127,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
+                "file": "StaticVsDynamic Initiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from StaticVsDynamic Initiation"
             }
           },
           {
@@ -141,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimal Protocols for Studying & Learning   --Andrew Huberman.md"
-              }
+                "file": "StaticVsDynamic Initiation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of StaticVsDynamic Initiation"
             }
           }
         ]
@@ -170,18 +173,26 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ce7730dfcb1d985b",
+  "active": "9c69000b0d6e915c",
   "lastOpenFiles": [
-    "Recursion.md",
+    "OOPS/2.)Classes and Objects.md",
+    "OOPS/3)StaticVsDynamic Initiation.md",
+    "DSA/5)Recursion.md",
+    "DSA/2)Arrays.md",
     "DSA/1)Analyzing Algorithms.md",
+    "DSA/5)Recursion",
+    "Attachments/Pasted image 20241023090015.png",
+    "Tamplates/date.md",
+    "date",
+    "Tamplates",
+    "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
     "OOPS/Scope Resolution Operator.md",
     "OOPS/todo.md",
-    "Untitled",
     "OOPS/1.) OOP_Introduction.md",
-    "OOPS/2.)Classes and Objects.md",
     "Attachments/DSA  Material/Asymptotic Notations (1).pdf",
     "Attachments/DSA  Material/Lab Assignment 4.pdf",
     "Attachments/DSA  Material/Lab Assignment 3.pdf",
@@ -191,16 +202,12 @@
     "Attachments/DSA  Material/Lab Assignment 5.pdf",
     "DSA/DSA Resources.md",
     "Attachments/DSA  Material/4. Stack.pdf",
-    "Attachments/DSA  Material/Arrays.pdf",
-    "Attachments/DSA  Material/Lab Assignment 4.pdf.crdownload",
     "DSA/4)stack.md",
-    "Optimal Protocols for Studying & Learning   --Andrew Huberman.md",
     "OOPs Syllabus.pdf.md",
     "2024-09-22.md",
     "DSA/3)Linked List.md",
     "Attachments/Pasted image 20240922124136.png",
     "Attachments/Pasted image 20240922124321.png",
-    "DSA/2)Arrays.md",
     "Attachments/DSA  Material/images/m2moryallocation of an array.png",
     "Attachments/Pasted image 20240920194156.png",
     "OperatingSystem/Chapter 1.md",
@@ -214,9 +221,6 @@
     "OOPS/Notes.md",
     "BV/Journel/08.2024/20.08.2024.md",
     "BV/Journel/Daily Traker.md",
-    "BV/Exam Prep.md",
-    "BV/Journel/09.2024/03.09.2024.md",
-    "BV/Journel/09.2024/02.09.2024.md",
     "Untitled.canvas"
   ]
 }
